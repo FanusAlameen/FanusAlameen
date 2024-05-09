@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aspiring full-stack developer eager to learn and grow in React, Node, Express, and MySQL. 
 
 <!--
 **FanusAlameen/FanusAlameen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
