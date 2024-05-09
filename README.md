@@ -1,5 +1,5 @@
 <p align="center">
-  <h2>Aspiring full-stack developer eager to learn and grow in React, Node, Express, and MySQL.👋🏻😄</h2>
+  <h2 style="text-align: center;">Aspiring full-stack developer eager to learn and grow in React, Node, Express, and MySQL.👋🏻😄</h2>
 </p>
 
 
